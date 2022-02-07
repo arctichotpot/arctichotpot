@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HotPot</h1>
 
-- 📫 How to reach me **2240379431@qq.com**
+- 📫 How to reach me **iamliulinin1997@qq.com**
 
 - ⚡ Fun fact **I think i am funny**
 
