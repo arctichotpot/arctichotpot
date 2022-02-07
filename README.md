@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm HotPot</h1>
-- 💬 Ask me about **vue,JS**
 
 - 📫 How to reach me **2240379431@qq.com**
 
