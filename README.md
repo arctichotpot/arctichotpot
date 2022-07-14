@@ -2,7 +2,7 @@
 class About extends Me {
 
     constructor() {
-        this.name = "liu lin"
+        this.name = "Liu Lin"
         this.professional = "Front-end Development"
         this.skills = {
             language: ["JavaScript", "Golang"],
