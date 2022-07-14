@@ -1,5 +1,5 @@
 ```javascript
-class About extends Me {
+class Me extends Person {
 
     constructor() {
         this.name = "Liu Lin"
